@@ -1,0 +1,1 @@
+module.exports = ["Why you no has waffle?", "Mile Hile Club Pass Applied", "Overly Friendly Neighbor Here To Help!"];
